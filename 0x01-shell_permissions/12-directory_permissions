@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod +x my.script.sh
+chmod +rwx my.script.sh
