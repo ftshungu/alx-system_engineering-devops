@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chown school '13-change_group'
+sudo chown school '13-change_group' echo "group owner changed to school"
