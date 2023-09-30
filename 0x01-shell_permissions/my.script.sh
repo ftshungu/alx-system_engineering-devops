@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod +x 12-directory_permissions
+my_dir="my_dir"; mkdir "$my_dir"; chmod 751 "$my_dir"
