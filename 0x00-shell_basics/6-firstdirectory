@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod +x create_directory.sh
+/tmp mkdir my_first_directory
