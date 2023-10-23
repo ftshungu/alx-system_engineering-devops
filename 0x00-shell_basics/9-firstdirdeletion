@@ -1,2 +1,2 @@
 #!/bin/bash
-rmdir /tmp/my_first_directory
+rmdir /alx-system_engineering-devops/0x00-shell_basics/tmp/my_first_directory
